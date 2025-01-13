@@ -1,6 +1,6 @@
 ![MasterHead](https://www.eurodigitalsystems.co.uk/wp-content/uploads/2021/08/Software-Engineering.gif)
 <h1 align="center">Hi 👋, I'm Sofyene Bouguerra</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<h3 align="center">A passionate software engineer</h3>
 <img align="right" width="400"  src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" alt=""> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofyenebouguerra&label=Profile%20views&color=0e75b6&style=flat" alt="sofyenebouguerra" /> </p>
